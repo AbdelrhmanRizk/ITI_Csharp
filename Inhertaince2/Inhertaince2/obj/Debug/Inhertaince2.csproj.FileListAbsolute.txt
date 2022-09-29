@@ -1,0 +1,7 @@
+C:\Users\Ammar\source\repos\Inhertaince2\Inhertaince2\bin\Debug\Inhertaince2.exe.config
+C:\Users\Ammar\source\repos\Inhertaince2\Inhertaince2\bin\Debug\Inhertaince2.exe
+C:\Users\Ammar\source\repos\Inhertaince2\Inhertaince2\bin\Debug\Inhertaince2.pdb
+C:\Users\Ammar\source\repos\Inhertaince2\Inhertaince2\obj\Debug\Inhertaince2.csproj.AssemblyReference.cache
+C:\Users\Ammar\source\repos\Inhertaince2\Inhertaince2\obj\Debug\Inhertaince2.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\source\repos\Inhertaince2\Inhertaince2\obj\Debug\Inhertaince2.exe
+C:\Users\Ammar\source\repos\Inhertaince2\Inhertaince2\obj\Debug\Inhertaince2.pdb
