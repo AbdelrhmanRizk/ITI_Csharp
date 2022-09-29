@@ -1,0 +1,7 @@
+C:\Users\Ammar\source\repos\classesTask\classesTask\bin\Debug\classesTask.exe.config
+C:\Users\Ammar\source\repos\classesTask\classesTask\bin\Debug\classesTask.exe
+C:\Users\Ammar\source\repos\classesTask\classesTask\bin\Debug\classesTask.pdb
+C:\Users\Ammar\source\repos\classesTask\classesTask\obj\Debug\classesTask.csproj.AssemblyReference.cache
+C:\Users\Ammar\source\repos\classesTask\classesTask\obj\Debug\classesTask.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\source\repos\classesTask\classesTask\obj\Debug\classesTask.exe
+C:\Users\Ammar\source\repos\classesTask\classesTask\obj\Debug\classesTask.pdb
