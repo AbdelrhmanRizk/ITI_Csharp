@@ -1,0 +1,7 @@
+C:\Users\Ammar\source\repos\Generic_Struct_Enum_Properties\Generic_Struct_Enum_Properties\obj\Debug\Generic_Struct_Enum_Properties.csproj.AssemblyReference.cache
+C:\Users\Ammar\source\repos\Generic_Struct_Enum_Properties\Generic_Struct_Enum_Properties\obj\Debug\Generic_Struct_Enum_Properties.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\source\repos\Generic_Struct_Enum_Properties\Generic_Struct_Enum_Properties\bin\Debug\Generic_Struct_Enum_Properties.exe.config
+C:\Users\Ammar\source\repos\Generic_Struct_Enum_Properties\Generic_Struct_Enum_Properties\bin\Debug\Generic_Struct_Enum_Properties.exe
+C:\Users\Ammar\source\repos\Generic_Struct_Enum_Properties\Generic_Struct_Enum_Properties\bin\Debug\Generic_Struct_Enum_Properties.pdb
+C:\Users\Ammar\source\repos\Generic_Struct_Enum_Properties\Generic_Struct_Enum_Properties\obj\Debug\Generic_Struct_Enum_Properties.exe
+C:\Users\Ammar\source\repos\Generic_Struct_Enum_Properties\Generic_Struct_Enum_Properties\obj\Debug\Generic_Struct_Enum_Properties.pdb
