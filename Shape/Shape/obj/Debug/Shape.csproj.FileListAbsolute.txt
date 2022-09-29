@@ -1,0 +1,7 @@
+C:\Users\Ammar\source\repos\Shape\Shape\bin\Debug\Shape.exe.config
+C:\Users\Ammar\source\repos\Shape\Shape\bin\Debug\Shape.exe
+C:\Users\Ammar\source\repos\Shape\Shape\bin\Debug\Shape.pdb
+C:\Users\Ammar\source\repos\Shape\Shape\obj\Debug\Shape.csproj.AssemblyReference.cache
+C:\Users\Ammar\source\repos\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\source\repos\Shape\Shape\obj\Debug\Shape.exe
+C:\Users\Ammar\source\repos\Shape\Shape\obj\Debug\Shape.pdb
